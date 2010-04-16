@@ -1,0 +1,15 @@
+{
+    "name": "wraps-gdata",
+    "description": "",
+    "version": "0.0.0",
+    "maintainers": [{
+        "name": "Christian Langreiter",
+        "web": "http://www.langreiter.com",
+        "email": "chris@langreiter.com"
+    }],
+    "licenses": [],
+    "directories": {
+        "lib": "lib",
+        "jars": "jars"
+    }
+}
